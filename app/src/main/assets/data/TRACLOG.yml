@@ -1,0 +1,8 @@
+# Ví dụ YAML
+product: Laptop ABC
+price: 333
+specifications:
+  os: Windows 10
+  hdd: 500 GB
+  ram: # Mảng ram
+    - branch: XYZ
